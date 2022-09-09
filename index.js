@@ -79,3 +79,6 @@ while (seleccion != "no") {
 }/*  else {
     alert("No tienes un curso seleccionado.");
   } */
+
+  //--> construccion de personas/estudiantes
+
